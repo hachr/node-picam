@@ -1,6 +1,6 @@
 {
 	"name": "node-picam",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"author": {
 		"name": "hachr",
 		"email": "hach@hachr.com",
@@ -8,7 +8,7 @@
 	},
 	"description": "Simple wrapper for raspistill",
 	"keywords": ["raspistill", "camera", "raspberry", "pi"],
-	"main": "./lib/Camera.js",
+	"main": "lib",
 	"repository": "git://github.com/hachr/node-picam.git",
 	"devDependencies": {
 		"lodash": "*"
